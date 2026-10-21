@@ -22,7 +22,7 @@ Jalankan:
   python FOD_detectdepth.py --model pinhole      (paksa model lensa)
 Tombol: q = keluar | g = on/off estimasi bidang tanah | s = simpan frame
 """
-
+# firos ganteng bgt 
 import argparse
 import csv
 import os
